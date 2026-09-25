@@ -155,3 +155,4 @@ with col_chart:
 with col_table:
   st.subheader("📋 Detalhamento dos Itens")
   st.dataframe(df_filtrado, use_container_width=True, hide_index=True)
+    
